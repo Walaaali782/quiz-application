@@ -1,0 +1,16 @@
+01 create json object for qestution 
+02 start html 
+03 add dumy data 
+04 craete the style 
+05 fetch the number of qestusion from json 
+06  show  qestusion count + qestusion catogray 
+07 show the number  of bullets depend on qestusion
+08 set a number from a right and wrong  qestusion 
+09 craete count done time timer 
+10 fetch the qestusion from json obj 
+11 show first qestusion
+12 check the answer and hide qestusion then show next qestusion
+13 if the  count done time timer  end  , mark the qestusion as wrong then show next qestusion
+14  add class on bullets after answering the qestusion 
+15 if  qestusion finish show the results
+

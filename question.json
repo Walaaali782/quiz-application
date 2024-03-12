@@ -1,0 +1,102 @@
+[
+    {
+        "title" : "What HTML element is used to define the title of a webpage?" ,
+        "answer_1" :  "header",
+        "answer_2" : "title",
+        "answer_3" : "heading",
+        "answer_4" : "caption" ,
+        "right_answer" :"title"
+    },
+    {
+      "title":  "Which tag is used to define an unordered list in HTML?",
+        "answer_1": "ul",
+        "answer_2": "ol",
+        "answer_3": "li",
+        "answer_4": "div",
+        "right_answer": "ul"
+    },
+    {
+      "title": "What tag is used to insert an image in an HTML page?",
+        "answer_1": "img",
+        "answer_2": "src",
+        "answer_3": "image",
+        "answer_4": "picture",
+        "right_answer":"img"
+    },
+    {
+      "title": "Which tag is used to emphasize text in an HTML page?",
+        "answer_1": "em",
+        "answer_2": "bold",
+        "answer_3": "highlight",
+        "answer_4": "strong",
+      "right_answer":"strong"
+    },
+    {
+    "title": "Which HTML tag is used to create a hyperlink?",
+      "answer_1": "link",
+      "answer_2": "href",
+      "answer_3": "hyperlink",
+      "answer_4": "a",
+    "right_answer": "a"
+  },
+  {
+    "title": "What does HTML stand for?",
+      "answer_1": "Hyper Text Markup Language",
+      "answer_2": "Hyperlinks and Text Markup Language",
+      "answer_3": "Home Tool Markup Language",
+      "answer_4": "Hyper Tool Markup Language",
+    "right_answer":"Hyper Text Markup Language"
+  },
+  {
+    "title": "Which tag is used to create a numbered list in HTML?",
+      "answer_1": "ul",
+      "answer_2": "li",
+      "answer_3": "ol",
+      "answer_4": "list",
+    "right_answer":"ol"
+  },
+  {
+    "title": "Which HTML element is used to define the structure of an HTML document?",
+      "answer_1": "head",
+      "answer_2": "body",
+      "answer_3": "doctype",
+      "answer_4": "html",
+    "right_answer":  "html"
+  },
+  {
+    "title": "Which HTML tag is used to define the main content of a webpage?",
+ 
+      "answer_1": "main",
+      "answer_2": "content",
+      "answer_3": "body",
+      "answer_4": "section",
+    "right_answer": "main"
+  },
+  {
+    "title": "What does CSS stand for?",
+
+      "answer_1": "Creative Style Sheets",
+      "answer_2": "Cascading Style Sheets",
+      "answer_3": "Computer Style Sheets",
+      "answer_4": "Colorful Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which property in CSS is used to change the text color of an element?",
+      "answer_1": "font-color",
+      "answer_2": "text-color",
+      "answer_3": "color",
+      "answer_4": "font-style",
+    "right_answer": "color"
+  },
+  {
+    "title": "What is the correct HTML tag for inserting a line break?",
+      "answer_1": "br",
+      "answer_2": "break",
+      "answer_3": "lb",
+      "answer_4": "linebreak",
+     "right_answer": "br"
+  }
+    
+  ]
+ 
